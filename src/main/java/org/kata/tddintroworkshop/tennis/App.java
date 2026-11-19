@@ -1,4 +1,4 @@
-package org.kata.tennis;
+package org.kata.tddintroworkshop.tennis;
 
 /**
  * Hello world!
